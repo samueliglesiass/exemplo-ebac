@@ -1,0 +1,24 @@
+INICIO
+
+	1.Despertador;
+	2.Despertador =  N1;
+	3.Ler N1;
+
+	4.se N1 >= 7 e =< 8;
+
+		4.1. desligar despertador;
+		4.2. Levantar;
+		4.3. lavar o rosto;
+		4.4. preparar cafe;
+		4.5. tomar banho;
+		4.6. tocar deroupa;
+		4.7. trabalhar;
+
+	5.se N1 < 7 e >= 0;
+		5.1. dormir;
+
+	6.Perdeu dia de serviço;
+	
+
+FIM
+		
